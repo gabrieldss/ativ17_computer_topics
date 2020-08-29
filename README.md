@@ -1,1 +1,1 @@
-# ativ17_computer_topics
+# Activity 17 - computer topics
