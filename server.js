@@ -15,6 +15,16 @@ const books = [
         ID: 2,
         name: 'Os Lusiadas',
         author: 'Luis de Camoes'
+    },
+    {
+        ID: 3,
+        name: 'O Pequeno Príncipe',
+        author: 'Saint-Exupéry'
+    },
+    {
+        ID: 4,
+        name: 'O Cemitério',
+        author: 'Stephen King'
     }
 ];
 
